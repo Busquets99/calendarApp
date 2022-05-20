@@ -11,3 +11,5 @@ To run:
 3. Run npm install in the terminal
 4. Run npm run startServer in the terminal
 5. Open up a browser and go to localhost:5000
+
+# Requires a MongoDb installation as well!
